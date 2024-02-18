@@ -5,13 +5,13 @@
 
 # Kernel
 KERNEL_NAME="MilkKernel"
-KERNEL_GIT="https://github.com/SchweGELBin/kernel_milk_davinci.git"
-KERNEL_BRANCH="pixelos-14.0"
+KERNEL_GIT="https://github.com/xiaomi-sm6150/android_kernel_xiaomi_sm6150.git"
+KERNEL_BRANCH="lineage-21"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
-REMOVE_SIG_VER="true"
-KSU_ENABLED="true"
+REMOVE_SIG_VER="false"
+KSU_ENABLED="false"
 
 # Anykernel3
 ANYKERNEL3_GIT="https://github.com/SchweGELBin/AnyKernel3_davinci.git"
