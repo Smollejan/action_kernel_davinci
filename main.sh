@@ -5,8 +5,8 @@
 
 # Kernel
 KERNEL_NAME="MilkKernel"
-KERNEL_GIT="https://github.com/xiaomi-sm6150/android_kernel_xiaomi_sm6150.git"
-KERNEL_BRANCH="lineage-21"
+KERNEL_GIT="https://github.com/PixelOS-Devices/kernel_xiaomi_sm6150.git"
+KERNEL_BRANCH="fourteen"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
